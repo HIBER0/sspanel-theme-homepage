@@ -8,7 +8,8 @@ sspanel-theme-homepage
 
 ## 安装脚本
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/lizhongnian/sspanel-theme-homepage/master/install.sh &&
+https://github.com/HIBER0/sspanel-theme-homepage/blob/master/install.sh
+wget -N --no-check-certificate https://github.com/HIBER0/sspanel-theme-homepage/blob/master/install.sh &&
 chmod +x install.sh &&
 bash install.sh
 ```
