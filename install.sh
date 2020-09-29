@@ -36,7 +36,7 @@ echo "--------------------------------------------------------------------------
 echo -e "请注意:“网站目录默认是你的域名，例如/www/wwwroot/w.2q.gs"
 stty erase '^H' && read -p "请输入宝塔面板添加的网站目录,默认地址（例如:w.2q.gs，不带http/https）：" website
 themetype="theme-one"
-githubUrl="https://raw.githubusercontent.com/lizhongnian/sspanel-theme-homepage/master"
+githubUrl="https://raw.githubusercontent.com/HIBER0/sspanel-theme-homepage/master"
 #日志
 echo -e "\033[34m=============================================================================\033[0m"
 echo -e "\033[31m       	———————————————请选择安装sspanel-theme-homepage前方的数字———————————————————\033[0m"
